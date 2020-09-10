@@ -1,0 +1,1 @@
+docker build -t antdb_alone:5.0 -f antdb.dockerfile .
